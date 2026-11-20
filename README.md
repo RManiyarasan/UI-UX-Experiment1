@@ -5,8 +5,6 @@
 To explore the fundamentals of UI and UX, understand the differences between UI and UX using real-world case studies, illustrate their relationship in design, and demonstrate various UI/UX design tools.
 
 
-
-## Output:
 ## 1. Explore the Fundamentals of UI and UX
 User Interface (UI):
 
